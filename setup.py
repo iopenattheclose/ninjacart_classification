@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='ola',
+name='ninjacart',
 version='0.0.1',
 author='pru',
 author_email='prupro69@gmail.com',
